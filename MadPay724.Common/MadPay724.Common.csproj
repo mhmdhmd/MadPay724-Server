@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectRefrence Remove="..\MadPay724.Data\01-MadPay724.Data.csproj" />
+  </ItemGroup>
+</Project>
